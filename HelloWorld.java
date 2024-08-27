@@ -35,6 +35,62 @@ public class HelloWorld {
         System.out.println("name"+'\t'+"age");
         System.out.println("tom"+"\t"+"23");
 
+        //变量
+        int b = 10 ;
+        int c = 20;
+        System.out.println(b);
+        System.out.println(c);
+
+        //
+        int count = 0;
+        count = count + 1;
+        count = count + 2 - 1;
+        count = count + 2 - 1;
+        count = count - 1;
+        count = count + 1;
+        System.out.println(count);//3
+
+        System.out.println(0b111);
+        System.out.println(10);
+        System.out.println(017);
+        System.out.println(0x2c);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
